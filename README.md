@@ -1,1 +1,1 @@
-
+Es una aplicación como replica algo parecida a Instagram, tiene todas las funcionalidades básicas como; registrarse, editar perfil, publicar post y etc. Aun tiene muchas cosas que mejorar, pero puede servir de base como para alguna otra prueba que tengan, esta realizado con PHP y LARAVEL.
